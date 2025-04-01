@@ -3,8 +3,6 @@ name: tiles-gaode
 version: 1.0
 slug: tiles-gaode
 description: 高德地图纠偏版 for Traccar
-url: https://github.com/dscao/hassio-addons/tree/master/tiles-gaode
-image: dscao/{arch}-addon-tiles-gaode
 arch:
   - aarch64
   - amd64
